@@ -5,6 +5,7 @@
 
 
 
+
 Начать с простого вопроса.
 cat "ABC" > my.txt
 git add my.txt
