@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags :: Vladimir Chigarev</title>
+    <title>Теги :: Владимир Чигарёв</title>
     <link>https://chiga17.dev/tags/index.html</link>
     <description></description>
     <generator>Hugo</generator>
-    <language>en-US</language>
+    <language>ru</language>
     <atom:link href="https://chiga17.dev/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

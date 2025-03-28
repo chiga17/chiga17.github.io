@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vladimir Chigarev</title>
+    <title>Владимир Чигарёв</title>
     <link>https://chiga17.dev/index.html</link>
     <description></description>
     <generator>Hugo</generator>
-    <language>en-US</language>
+    <language>ru</language>
     <lastBuildDate>Wed, 19 Feb 2025 01:13:55 +0100</lastBuildDate>
     <atom:link href="https://chiga17.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Education and Science</title>
+      <title>Образование и наука</title>
       <link>https://chiga17.dev/education/index.html</link>
       <pubDate>Wed, 19 Feb 2025 01:13:55 +0100</pubDate>
       <guid>https://chiga17.dev/education/index.html</guid>
-      <description>Candidate of Sciences in Applied Mathematics 2024&#xA;Degree Awarded: By decision of the dissertation council, the academic degree of Candidate of Sciences in Applied Mathematics was awarded (Protocol No. 29 dated 30.09.2024)&#xA;Dissertation Topic: On chaotic attractors and repellers in systems with a compact phase space&#xA;Summary: The dissertation is dedicated to the study of chaotic dynamics in systems described by diffeomorphisms on compact manifolds. New methods for analyzing chaotic dynamics have been developed, including determining the applicability limits of linear response theory and verifying the non-uniform hyperbolicity of a system. A novel scenario of attractor–repeller collision for three-dimensional torus maps has been demonstrated, along with methods for constructing heterodimensional cycles. A software package for studying reversible and dissipative systems has been created. The results have been presented at international conferences and seminars and published in leading journals on dynamical chaos theory.</description>
+      <description>Кандидат наук по прикладной математике 2024&#xA;Присуждение степени: Решением диссертационного совета присуждена ученая степень кандидата наук по прикладной математике (Протокол № 29 от 30.09.2024 г.)&#xA;Тема диссертации: О хаотических аттракторах и репеллерах в системах с компактным фазовым пространством&#xA;Краткое описание: Диссертационная работа посвящена исследованию хаотической динамики систем, описываемых диффеоморфизмами на компактных многообразиях. Разработаны новые методы анализа хаотической динамики, включая определение границ применимости теории линейного отклика и проверку неравномерной гиперболичности системы. Продемонстрирован новый сценарий столкновения хаотического аттрактора с репеллером для отображений на трехмерном торе, а также разработаны методы построения гетероразмерных циклов. Создан программный комплекс для исследования обратимых и диссипативных систем. Результаты работы представлены на международных конференциях и семинарах, а также опубликованы в ведущих журналах по теории динамического хаоса.</description>
     </item>
     <item>
-      <title>Mini-Projects</title>
+      <title>Опыт работы</title>
+      <link>https://chiga17.dev/experience/index.html</link>
+      <pubDate>Sat, 19 Oct 2024 01:13:55 +0100</pubDate>
+      <guid>https://chiga17.dev/experience/index.html</guid>
+      <description>AI Agent проект 2024&#xA;Senior Software Designer&#xA;Участвовал в ежедневных встречах Обсуждал задачи и планы с международными коллегами Разрабатывал новые функции Поддерживал и улучшал существующий функционал Выполнял рефакторинг и ревью кода Писал техническую документацию Технологии: AI, Node.js, OAuth2, PostgreSQL, Moleculer, Docker, Kubernetes&#xA;Сервис бронирования окружений 2020 – 2024&#xA;Senior Software Designer&#xA;Вёл разработку внутреннего сервиса управления окружениями Разрабатывал и внедрял ключевой бэкенд-функционал (кодирование, отладка, тестирование) Вносил небольшие изменения на стороне клиента Активно участвовал в ежедневных встречах, ежемесячном планировании и демо Работал с международными коллегами Поддерживал, оптимизировал и расширял функциональность сервиса Проводил рефакторинг и ревью кода Создавал и поддерживал документацию Технологии: Java, Spring, MySQL, Docker, Hibernate, AWS, REST, Python, Rancher, React, Node.js, GitLab, Kubernetes</description>
+    </item>
+    <item>
+      <title>Мини-проекты</title>
       <link>https://chiga17.dev/mini-projects/index.html</link>
       <pubDate>Wed, 19 Feb 2025 01:13:55 +0100</pubDate>
       <guid>https://chiga17.dev/mini-projects/index.html</guid>
-      <description>Receipt Printing for Cafés A project for automating receipt printing for orders from various delivery services: Yandex.Delivery, EK DELIVERY, Delivery Club, and the café’s own website.&#xA;Main challenges:&#xA;Understanding printer control with limited documentation. Exploring delivery service APIs without official documentation. Unifying diverse APIs into a single structure. Tools &amp; Technologies: DevTools, REST API, encodings, Python, escpos, wxPython, unittest&#xA;Patient Registry A web application for registering ophthalmologists and maintaining a database of patients undergoing surgical treatment.</description>
+      <description>Печать чеков для кафе Проект для автоматизации печати чеков с заказами из различных сервисов доставки: Яндекс.Доставка, ЕК ДОСТАВКА, Delivery Club, собственный сайт кафе.&#xA;Основные задачи:&#xA;Разобраться с управлением принтером при ограниченной документации. Исследовать API сервисов доставки без официальной документации. Унифицировать разнородные API в единую структуру. Инструменты и технологии: DevTools, REST API, encodings, Python, escpos, wxPython, unittest&#xA;Регистр пациентов Веб-приложение для регистрации врачей-офтальмологов и ведения базы данных пациентов, проходящих хирургическое лечение.</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vladimir Chigarev</title>
+    <link>https://chiga17.dev/en/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Feb 2025 01:13:55 +0100</lastBuildDate>
+    <atom:link href="https://chiga17.dev/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education and Science</title>
+      <link>https://chiga17.dev/en/education/index.html</link>
+      <pubDate>Wed, 19 Feb 2025 01:13:55 +0100</pubDate>
+      <guid>https://chiga17.dev/en/education/index.html</guid>
+      <description>Candidate of Sciences in Applied Mathematics 2024&#xA;Degree Awarded: By decision of the dissertation council, the academic degree of Candidate of Sciences in Applied Mathematics was awarded (Protocol No. 29 dated 30.09.2024)&#xA;Dissertation Topic: On chaotic attractors and repellers in systems with a compact phase space&#xA;Summary: The dissertation is dedicated to the study of chaotic dynamics in systems described by diffeomorphisms on compact manifolds. New methods for analyzing chaotic dynamics have been developed, including determining the applicability limits of linear response theory and verifying the non-uniform hyperbolicity of a system. A novel scenario of attractor–repeller collision for three-dimensional torus maps has been demonstrated, along with methods for constructing heterodimensional cycles. A software package for studying reversible and dissipative systems has been created. The results have been presented at international conferences and seminars and published in leading journals on dynamical chaos theory.</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>https://chiga17.dev/en/experience/index.html</link>
+      <pubDate>Sat, 19 Oct 2024 01:13:55 +0100</pubDate>
+      <guid>https://chiga17.dev/en/experience/index.html</guid>
+      <description>AI Agent Project 2024&#xA;Senior Software Designer&#xA;Participated in daily meetings, monthly planning, and demos Discussed tasks and plans with international colleagues Developed new features Maintained and enhanced existing functionality Performed code refactoring and reviews Authored technical documentation Technologies: AI, Node.js, OAuth2, PostgreSQL, Moleculer, Docker, Kubernetes&#xA;Environment Booking Service 2020 – 2024&#xA;Senior Software Designer&#xA;Served as the lead developer for the internal provisioning service Designed and implemented key backend functionalities (coding, debugging, testing) Made minor updates to the client side Actively participated in daily meetings, monthly planning, and demos Collaborated with international colleagues Maintained, optimized, and expanded the service’s functionality Conducted code refactoring and reviews Produced and maintained documentation Technologies: Java, Spring, MySQL, Docker, Hibernate, AWS, REST, Python, Rancher, React, Node.js, GitLab, Kubernetes</description>
+    </item>
+    <item>
+      <title>Mini-Projects</title>
+      <link>https://chiga17.dev/en/mini-projects/index.html</link>
+      <pubDate>Wed, 19 Feb 2025 01:13:55 +0100</pubDate>
+      <guid>https://chiga17.dev/en/mini-projects/index.html</guid>
+      <description>Receipt Printing for Cafés A project for automating receipt printing for orders from various delivery services: Yandex.Delivery, EK DELIVERY, Delivery Club, and the café’s own website.&#xA;Main challenges:&#xA;Understanding printer control with limited documentation. Exploring delivery service APIs without official documentation. Unifying diverse APIs into a single structure. Tools &amp; Technologies: DevTools, REST API, encodings, Python, escpos, wxPython, unittest&#xA;Patient Registry A web application for registering ophthalmologists and maintaining a database of patients undergoing surgical treatment.</description>
+    </item>
+  </channel>
+</rss>
